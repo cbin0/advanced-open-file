@@ -1,5 +1,5 @@
 {
-  "name": "advanced-open-file",
+  "name": "advanced-open-file-cuibin",
   "version": "0.16.2",
   "main": "./lib/advanced-open-file",
   "description": "Open and create files and directories easily. Type in a path (with autocomplete) and view directory contents.",
